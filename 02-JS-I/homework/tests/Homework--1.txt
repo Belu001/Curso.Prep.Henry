@@ -1,0 +1,16 @@
+Homework--1
+
+* Variables
+    Una variable se usa para mencionar algo importante y darle un sentido, para después poder volver a usarlo.
+* Strings
+    Las Strings, sólo es texto, que tiene que estar siempre entre comillas, ya sean dobles o simples.
+* Funciones (argumentos, `return`)
+    Las funciones son conjunos de instrucciones que realizan  una tarea determinada. Estas tienen una entrada y una salida.
+    Una función es una parte de código que se puede usar o llamar en cualquier momento.
+    A estas funciones se les pueden agregar argumentos(tareas o instrucciones), los cuales se les agrega por siguiente "return", 
+    para que finalice la función devolviendo un valor, ya sea numeros o textos.
+* Declaraciones `if`
+    La declaración "if" funcionan como condiciones, si algo en nuestra funcion cumple con la condición que se le indica, 
+    se devuelve cierto valor, en caso de que no cumpla, se devuelve otro valor. 
+* Valores booleanos (`true`, `false`)
+    Las variables booleanas se usan para almacenar información del tipo si-no, true-false.
