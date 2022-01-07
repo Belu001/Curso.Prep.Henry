@@ -1,0 +1,7 @@
+homework-03-js-II
+
+* for: es un bucle que normalmente se usan para contar o repetir una o mas instrucciones dependiendo las veces en que se lo indiquemos.
+
+* `&&`, `||`, `!`: Estos son operadores lógicos, que quieren decir "y", "o" y "no"
+
+
